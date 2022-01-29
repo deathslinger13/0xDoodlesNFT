@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x56370985eEB7a815FDf4f31Cce2813894CC4C59F",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x56370985eeb7a815fdf4f31cce2813894cc4c59f#code",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "NFT_NAME": "0xDoodles",
+  "SYMBOL": "0XDOODLES",
+  "MAX_SUPPLY": 9800,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testdo-l8nmq7vn7g",
   "SHOW_BACKGROUND": true
 }
